@@ -1,5 +1,7 @@
 #Topic : Python Basics
-#basic code to print hello
+# Goal: Start Python-A2Z daily practice
+
+#basic hello
 print("Hello, Python-a2z!")
 
 #variables
